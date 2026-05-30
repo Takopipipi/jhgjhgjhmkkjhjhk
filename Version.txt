@@ -1,4 +1,4 @@
-version: 0.1.0
+version: 0.2.0
 url: https://github.com/olemadbusiness-blip/shapen/releases/download/0.2.0/Shapen.exe
 ---
 Что нового в 0.2.0:
