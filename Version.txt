@@ -1,7 +1,7 @@
-version: 0.3.0
+version: 0.4.0
 url: https://github.com/Takopipipi/jhgjhgjhmkkjhjhk/releases/download/Update/Shapen.exe
 ---
-Что нового в 0.3.0:
+Что нового в 0.4.0:
 • Добавлен Discord Rich Presence
 • Исправлен статус читов в категории 'Не работают'
 • Исправлен ченджлог, который отображался не на том языке
