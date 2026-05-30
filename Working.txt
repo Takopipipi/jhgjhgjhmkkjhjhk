@@ -1,0 +1,6 @@
+  madium: working
+  real: working
+  xeno: patched
+  volt: working
+  wave: working
+  solara: working
