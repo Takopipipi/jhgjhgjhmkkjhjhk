@@ -1,6 +1,7 @@
-version: 0.5.0
+version: 0.6.0
 url: https://github.com/Takopipipi/jhgjhgjhmkkjhjhk/releases/download/Update/Shapen.exe
 ---
-Что нового в 0.5.0:
-• Добавлен Выбор шрифтов
-• Улучшенные ползунки
+Что нового в 0.6.0:
+• Обновлён дизайн
+• Изменение логотипа
+• Добавлен временный эффект листопада
