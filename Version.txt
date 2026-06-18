@@ -1,5 +1,5 @@
-version: 0.7.1
+version: 0.7.2
 url: https://github.com/Takopipipi/jhgjhgjhmkkjhjhk/releases/download/Update/Shapen.exe
 ---
-Что нового в 0.7.1:
+Что нового в 0.7.2:
 • Исправлена система обновления
