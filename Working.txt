@@ -1,5 +1,5 @@
 # Автогенерируется ботом Shapen. Вручную не редактировать.
 # working = работает, patched = не работает
-madium: working
-real: working
+madium: patched
+real: patched
 xeno: working
