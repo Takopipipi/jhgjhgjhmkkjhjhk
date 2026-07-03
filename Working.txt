@@ -2,3 +2,4 @@
 # working = работает, patched = не работает
 real: patched
 xeno: working
+Madium: working
