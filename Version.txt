@@ -1,5 +1,7 @@
-version: 0.7.3
+version: 0.8.0
 url: https://github.com/Takopipipi/jhgjhgjhmkkjhjhk/releases/download/Update/Shapen.exe
 ---
-Что нового в 0.7.3:
-• Исправлена система обновления
+Что нового в 0.8.0:
+• Статусы обнавляются через API WEAO
+• Показывает текующую версию Roblox
+• Real временно недоступен для автоматического запуска
